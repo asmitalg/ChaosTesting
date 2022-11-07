@@ -91,7 +91,7 @@
 		"name": "website-must-still-respond",
 		"provider": {
 			"type": "http",
-			"url": "http://13.213.244.18/cafe/"
+			"url": "http://44.212.168.178/cafe/"
 		}
 	},
 	{
@@ -117,7 +117,7 @@
 		"name": "website-must-still-respond",
 		"provider": {
 			"type": "http",
-			"url": "http://13.213.244.18/cafe/"
+			"url": "http://44.212.168.178/cafe/"
 		}
 	}
 	]
