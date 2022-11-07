@@ -17,7 +17,7 @@
 				"module": "chaoscloud.probes.http", 
 				"func": "read_http_status_code", 
 				"arguments": {
-					"url": "http://13.213.244.18/cafe/"
+					"url": "http://44.212.168.178/cafe/"
 					}
 				}, 
 			"tolerance": {
