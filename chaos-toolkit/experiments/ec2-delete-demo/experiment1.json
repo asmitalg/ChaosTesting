@@ -33,7 +33,7 @@
 				}
 			}
 		}]}
-	}, 
+	, 
 	"method": [
 	{
 		"name": "stop-instance", 
